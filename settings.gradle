@@ -1,0 +1,5 @@
+include ':app'
+include ':annotationlib_1'
+include ':lib_processor'
+include ':lib_interface'
+include ':annotationlib_2'
